@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "36dbfe976d653e40",
+    "type": "split",
+    "children": [
+      {
+        "id": "12f43a33a5cb6efe",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Sources/Molecular Notes - My Second Brain.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7f9f884bad8702fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d6eedeae898e546",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f6591166c84574f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "70fd3e74a1617050",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cb9f58ddf5f9ec2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "18b08cba4af386c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c92b07c0816ff982",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sources/Molecular Notes - My Second Brain.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "12f43a33a5cb6efe",
+  "lastOpenFiles": [
+    "Sources/Molecular Notes - My Second Brain.md",
+    "Sources/Bitcoin Currencies and Fragility.md",
+    "Bitcoin, Currencies, and Fragility.md",
+    "readme.md"
+  ]
+}
