@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sources/Molecular Notes - My Second Brain.md",
-            "mode": "source"
+            "file": "Sources/Bitcoin Currencies and Fragility.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -52,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cb9f58ddf5f9ec2d",
@@ -68,14 +70,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sources/Molecular Notes - My Second Brain.md",
+                "file": "Sources/Bitcoin Currencies and Fragility.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -88,9 +90,15 @@
   },
   "active": "12f43a33a5cb6efe",
   "lastOpenFiles": [
-    "Sources/Molecular Notes - My Second Brain.md",
     "Sources/Bitcoin Currencies and Fragility.md",
+    "Sources/Molecular Notes - My Second Brain.md",
+    "Untitled.md",
     "Bitcoin, Currencies, and Fragility.md",
-    "readme.md"
+    "readme.md",
+    "Atoms/Robert Martin.md",
+    "Atoms/Nassim Taleb.md",
+    "Atoms/Kownledge Management.md",
+    "Atoms/Finance.md",
+    "Atoms/Crypto Currency.md"
   ]
 }

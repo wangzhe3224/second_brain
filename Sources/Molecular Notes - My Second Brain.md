@@ -10,3 +10,8 @@ Three levels of notes:
 - [[Atom]]s: a fact.
 - Molecules: is an _insight_. This insight should be self-contained and discrete
 
+## Atom
+
+## Source
+
+## Molecules
