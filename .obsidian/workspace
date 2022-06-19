@@ -9,7 +9,31 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sources/Bitcoin Currencies and Fragility.md",
+            "file": "Sources/Bitcoin Academic Pedigree.md.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "56261097b46b456e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Sources/Metcalfe’s Law as a Model for Bitcoin’s Value.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "8be775514347e6f8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Metcalfe’s Law.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#atom",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "cb9f58ddf5f9ec2d",
@@ -70,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sources/Bitcoin Currencies and Fragility.md",
+                "file": "Sources/Metcalfe’s Law as a Model for Bitcoin’s Value.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,17 +111,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "12f43a33a5cb6efe",
+  "active": "56261097b46b456e",
   "lastOpenFiles": [
-    "Sources/Bitcoin Currencies and Fragility.md",
-    "Sources/Molecular Notes - My Second Brain.md",
-    "Untitled.md",
-    "Bitcoin, Currencies, and Fragility.md",
-    "readme.md",
-    "Atoms/Robert Martin.md",
-    "Atoms/Nassim Taleb.md",
-    "Atoms/Kownledge Management.md",
-    "Atoms/Finance.md",
-    "Atoms/Crypto Currency.md"
+    "Sources/Metcalfe’s Law as a Model for Bitcoin’s Value.md",
+    "Metcalfe’s Law.md",
+    "Sources/Bitcoin Academic Pedigree.md.md",
+    "_notes/_security_priciple.md.md",
+    "X.509 certificate.md",
+    "Atoms/Power Law.md",
+    "Atoms/Certificate Authority.md",
+    "Atoms/Public Key Infrastructure.md",
+    "Atoms/Cryptography.md",
+    "Sources/Molecular Notes - My Second Brain.md"
   ]
 }

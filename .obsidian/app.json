@@ -1,4 +1,6 @@
 {
   "legacyEditor": false,
-  "promptDelete": false
+  "promptDelete": false,
+  "spellcheck": true,
+  "alwaysUpdateLinks": true
 }

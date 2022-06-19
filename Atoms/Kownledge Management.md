@@ -2,4 +2,4 @@ Kownledge management
 
 ---
 
-type: #topic
+type: #atom 

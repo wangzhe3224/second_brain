@@ -1,7 +1,7 @@
 Author: [[Robert Martin]]
 Type: #blog #resource
 Link: [blog page](https://reasonabledeviations.com/2022/04/18/molecular-notes-part-1/#sources)
-Topics: [[Knowledge Management]]
+Topics: [[Kownledge Management]]
 
 ---
 
