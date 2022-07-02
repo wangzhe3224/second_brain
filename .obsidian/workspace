@@ -4,36 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "12f43a33a5cb6efe",
+        "id": "841bb75a77a8a5bb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sources/Bitcoin Academic Pedigree.md.md",
+            "file": "Sources/区块链技术指南.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "56261097b46b456e",
+        "id": "b073ba18cef19461",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sources/Metcalfe’s Law as a Model for Bitcoin’s Value.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "8be775514347e6f8",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Metcalfe’s Law.md",
+            "file": "Atoms/Merkle tree.md",
             "mode": "source",
             "source": false
           }
@@ -64,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#atom",
+                "query": "tag:#bitcoin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 244.0036334991455
   },
   "right": {
     "id": "cb9f58ddf5f9ec2d",
@@ -93,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sources/Metcalfe’s Law as a Model for Bitcoin’s Value.md",
+                "file": "Atoms/Merkle tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "56261097b46b456e",
+  "active": "b073ba18cef19461",
   "lastOpenFiles": [
-    "Sources/Metcalfe’s Law as a Model for Bitcoin’s Value.md",
-    "Metcalfe’s Law.md",
-    "Sources/Bitcoin Academic Pedigree.md.md",
-    "_notes/_security_priciple.md.md",
-    "X.509 certificate.md",
-    "Atoms/Power Law.md",
-    "Atoms/Certificate Authority.md",
-    "Atoms/Public Key Infrastructure.md",
-    "Atoms/Cryptography.md",
-    "Sources/Molecular Notes - My Second Brain.md"
+    "Atoms/Merkle tree.md",
+    "Sources/区块链技术指南.md",
+    "Atoms/Byzantine Problem.md",
+    "Atoms/区块链.md",
+    "[区块链.md",
+    "Atoms/Practical Byzantine Fault Tolerance.md",
+    "Byzantine Fault Tolerant.md",
+    "Atoms/Byzantine fault tolerance.md",
+    "BFT.md",
+    "Atoms/共识.md"
   ]
 }

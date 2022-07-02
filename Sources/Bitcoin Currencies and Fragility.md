@@ -7,9 +7,9 @@ Topics: [[Crypto Currency]] [[Finance]]
 
 ## Summary
 
-- [[Bitcoin]] failed to achieve "currency without government"
-- [[Bitcoin]] 's expected value is 0
-- [[Bitcoin]] cannot be:
+- [[Atoms/Bitcoin]] failed to achieve "currency without government"
+- [[Atoms/Bitcoin]] 's expected value is 0
+- [[Atoms/Bitcoin]] cannot be:
   - store of value
   - inflation hedge
   - protection from government

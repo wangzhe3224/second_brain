@@ -1,7 +1,7 @@
 Author: 
 Type: #paper #resource
 Link: 
-Topics: [[Bitcoin]]
+Topics: [[Atoms/Bitcoin]]
 
 --- 
 

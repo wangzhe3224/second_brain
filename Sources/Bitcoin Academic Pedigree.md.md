@@ -7,6 +7,8 @@ Topics: [[Crypto Currency]] [[Finance]]
 
 ## Content
 
+[[Bitcoin]]'s tech roots.
+
 ![[Pasted image 20220610223715.png]]
 
 [[Merkle tree]]
