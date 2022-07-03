@@ -1,0 +1,1 @@
+布隆过滤器（Bloom Filter）是在 1970 年由 Burton Howard Bloom 在论文《Space/Time Trade-offs in Hash Coding with Allowable Errors》提出的。布隆过滤器是一种基于 Hash 的高效查找结构，能够快速（常数时间内）回答“某个元素是否在一个集合内”的问题。

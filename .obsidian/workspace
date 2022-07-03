@@ -9,19 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sources/区块链技术指南.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "b073ba18cef19461",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Atoms/Merkle tree.md",
+            "file": "Atoms/Bloom Filter.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atoms/Merkle tree.md",
+                "file": "Atoms/Bloom Filter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b073ba18cef19461",
+  "active": "841bb75a77a8a5bb",
   "lastOpenFiles": [
-    "Atoms/Merkle tree.md",
+    "Atoms/Bloom Filter.md",
     "Sources/区块链技术指南.md",
+    "Atoms/侧链.md",
+    "Atoms/负反馈调节.md",
+    "Atoms/PoS.md",
+    "Atoms/Zero Knowledge Proof.md",
+    "Atoms/Homomorphic Encryption.md",
+    "Atoms/Merkle tree.md",
     "Atoms/Byzantine Problem.md",
-    "Atoms/区块链.md",
-    "[区块链.md",
-    "Atoms/Practical Byzantine Fault Tolerance.md",
-    "Byzantine Fault Tolerant.md",
-    "Atoms/Byzantine fault tolerance.md",
-    "BFT.md",
-    "Atoms/共识.md"
+    "Atoms/区块链.md"
   ]
 }
