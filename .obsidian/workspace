@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Atoms/Bloom Filter.md",
+            "file": "Sources/System Programming.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#bitcoin",
+                "query": "tag:#linux",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atoms/Bloom Filter.md",
+                "file": "Sources/System Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "841bb75a77a8a5bb",
   "lastOpenFiles": [
-    "Atoms/Bloom Filter.md",
+    "Sources/System Programming.md",
+    "Sources/Algebraic Graph Algorithms.md",
+    "Sources/Bitcoin - Beyond Base Layer.md",
+    "Sources/Bitcoin Academic Pedigree.md.md",
+    "Sources/Bitcoin Blockchain in details.md",
+    "Sources/Bitcoin Currencies and Fragility.md",
+    "Molecules/Great ideas in computer science.md",
+    "Molecules/Great ideas in systematic trading.md",
     "Sources/区块链技术指南.md",
-    "Atoms/侧链.md",
-    "Atoms/负反馈调节.md",
-    "Atoms/PoS.md",
-    "Atoms/Zero Knowledge Proof.md",
-    "Atoms/Homomorphic Encryption.md",
-    "Atoms/Merkle tree.md",
-    "Atoms/Byzantine Problem.md",
-    "Atoms/区块链.md"
+    "Sources/What Every Programmer Should Know About Memory.md"
   ]
 }
