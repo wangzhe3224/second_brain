@@ -2,5 +2,9 @@
   "legacyEditor": false,
   "promptDelete": false,
   "spellcheck": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "vimMode": true,
+  "showLineNumber": true,
+  "useTab": false,
+  "tabSize": 2
 }

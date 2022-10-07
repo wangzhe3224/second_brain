@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sources/System Programming.md",
+            "file": "_notes/Linear Algebra.md",
             "mode": "source",
             "source": false
           }
@@ -69,14 +69,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sources/System Programming.md",
+                "file": "_notes/Linear Algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -84,20 +84,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "841bb75a77a8a5bb",
   "lastOpenFiles": [
-    "Sources/System Programming.md",
-    "Sources/Algebraic Graph Algorithms.md",
+    "_notes/_security_priciple.md.md",
+    "_notes/Linear Algebra.md",
+    "Atoms/侧链.md",
+    "Atoms/Bitcoin.md",
     "Sources/Bitcoin - Beyond Base Layer.md",
     "Sources/Bitcoin Academic Pedigree.md.md",
     "Sources/Bitcoin Blockchain in details.md",
-    "Sources/Bitcoin Currencies and Fragility.md",
     "Molecules/Great ideas in computer science.md",
     "Molecules/Great ideas in systematic trading.md",
-    "Sources/区块链技术指南.md",
-    "Sources/What Every Programmer Should Know About Memory.md"
+    "Atoms/Cryptography.md"
   ]
 }
