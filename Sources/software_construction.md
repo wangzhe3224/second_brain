@@ -180,4 +180,99 @@ A `Type` is a set of values, with associated operations.
 
 ## Debug
 
-todo
+- Min test cast to reproduce
+- Slicing the problem
+- Binary search
+
+## Grammars and Regular Expressions
+
+A `Grammar` defines a set of strings. The literal strings in a grammar are called
+`terminals`, as they cannot be expanded any further.
+
+A `Grammar` is described by a set of `productions`, where each production defines
+a `nonterminal`. non-terminal is defined by other non-terminals, operators, and 
+terminals.
+
+``` text
+non-terminal ::= expression of terminals, non-terminals, and operators
+```
+
+For example:
+
+``` text
+// * operator, x is a non-terminal
+x ::= y*
+```
+
+Grammar can have recursion:
+
+``` text
+url ::= 'http://' hostname (':' port)? '/'
+hostname := word '.' hostname | word '.' word
+port ::= [0-9]+
+word ::= [a-z]+
+```
+
+### Markdown and HTML
+
+Markdown grammar:
+
+```text
+markdown := ( normal | italic ) * 
+italic ::= '_' normal '_'
+normal ::= text
+text ::= [^_]*
+```
+
+### Regular Expression
+
+A `regular grammar` has a special property: by substituting every nonterminal (except the root one) with its righthand side, you can reduce it down to a single production for the root, with only terminals and operators on the right-hand side.
+
+A regular expression does away with the quotes around the terminals, and the spaces between terminals and operators, so that it consists just of terminal characters, parentheses for grouping, and operator characters. 
+
+### Context-free Grammar
+
+Not all context-free grammar is regular. In general, any language with nested 
+structure is context-free but not regular.
+
+## Parsers
+
+Make expression text within a grammar to a Abstract Syntax Tree, AST.
+
+## Little Language
+
+When you need to solve a problem, instead of writing a program to solve that
+specific problem, build a *language* that can solve a range of related problem.
+
+Another powerful idea is *representing code as data*.
+
+A *language* has greater flexibility than a mere program. Most of time, we call 
+this kind of language as [[domain-specific language]] (DSL). 
+
+Some DSL is external, meaning it has its own syntax and semantics; some DSL is 
+internal to a general programming language, meaning the syntax and semantics are
+as same as the host language.
+
+### Design Patterns for Language
+
+Interpreter Pattern:
+
+- declare the operation as an instance method in the interface that defines the data type
+- implement the operation in each concrete variant
+- `Dynamic Dispatch` of the method calls is what powers this pattern
+
+Composite Pattern:
+
+- implement the operations recursively
+
+Visitor Pattern:
+
+- A visitor implements `switch` over types
+- A visitor represents a function over a recursive type
+- A visitor act as a iterator
+
+![20221127210611](https://raw.githubusercontent.com/wangzhe3224/pic_repo/master/images/20221127210611.png)
+
+The Interpreter pattern makes it easier to add new variants, because we don’t have to change any of our existing code: we just need to implement all the various operations as methods in the new variant class.
+
+The Visitor pattern makes it easier to add new operations. Instead of having to modify both the interface and every variant class, we just need to create a new, e.g., FormulaVisitor implementation with all the code for our new operation. There is no change to existing classes or interfaces.
