@@ -7,6 +7,15 @@ Three targets in software constructions:
 - Easy to understand
 - Ready for change
 
+(
+  Some design patterns mentioned:
+
+  - Visitor
+  - Interpreter
+  - Composite
+  - Message-passing
+)
+
 ## Specifications
 
 The `spec` is a contract: the implementer is responsible for meeting the contract,
@@ -59,6 +68,8 @@ of the data structure itself. In another word, ADT is a way to do abstraction wi
 *data* whereas the *spec* is a way to do abstraction with functions.
 
 ( ADT is kind of a `spec`? )
+
+Any time you write an ADT, its specs must not talk about the rep. The concrete variants of a recursive ADT are its rep, so the specs must not mention them.
 
 - Abstraction
   - Omitting or hiding low-level details with a simpler, higher-level idea
@@ -184,6 +195,10 @@ A `Type` is a set of values, with associated operations.
 - Slicing the problem
 - Binary search
 
+## Message-passing for Concurrency
+
+JS or node runtime is a single thread but async concurrent model.
+
 ## Grammars and Regular Expressions
 
 A `Grammar` defines a set of strings. The literal strings in a grammar are called
@@ -264,6 +279,7 @@ Interpreter Pattern:
 Composite Pattern:
 
 - implement the operations recursively
+- single component and group of components has the same interface
 
 Visitor Pattern:
 
