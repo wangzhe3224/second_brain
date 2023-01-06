@@ -6,6 +6,8 @@ tags:
     - creative
 ---
 
+- [总结](#总结)
+- [Intro](#intro)
 - [The fear of ugly](#the-fear-of-ugly)
 - [The tyranny of perfection](#the-tyranny-of-perfection)
 - [The danger of comparison](#the-danger-of-comparison)
@@ -26,6 +28,36 @@ tags:
 - [The problem of burnout](#the-problem-of-burnout)
 - [Beautiful endings](#beautiful-endings)
 
+## 总结
+
+这里是我的自己的读后感和收获。作者给出了提高创造力，或者生产力的一些建议。
+作者显然对“[[心流]]”状态比较推崇。创造，就是解决问题的过程，也是制作不存在的东西的过程。
+
+我觉得他从两个方面切入：
+
+- 开始做很困难，但是非常重要
+- 进入心流很重要
+
+如何快速开始？
+
+- 不要怕开始很丑
+- 不要追求完美
+- 不要跟别人比较，作品、方法等等
+- 不要想着我应该怎么做，而是有哪些可能性？
+- 不要想着规划完美的路线图，然后再开始
+- 先做，再加工
+
+如何进入心流？
+
+- 分割任务，获得小成就感
+- 想办法找出大块的时间，而不是碎片时间
+- 避免分心
+- 给自己增加约束
+- 优先处理困难的任务
+- 培养仪式感和习惯
+- 尝试失败
+
+## Intro
 > Creativity is not reserved for the exclusive use of those who image themselves in touch with the muses. It's the right and privilege of every human being.
 
 Creativity, in the arts or otherwise, is about the everyday making of things. It is not about muses and inspiration, or bolts from the blue: it's about problem-solving and exploration. It is about risk and encounter with the unknowns.
