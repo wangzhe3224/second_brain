@@ -9,6 +9,8 @@ author: Agustin Lebron
 
 The Trading Laws:
 
+---
+
 - Know why you are doing the trade before you trade
 - You are never happy with the amount you traded
 - Take only the risks you're paid to take. Hedge the others
@@ -22,6 +24,20 @@ The Trading Laws:
 - Working to align everyone’s interests is time well spent.
 - If you don’t master technology and data, you’re losing to someone who does.
 - If you’re not getting better, you’re getting worse.
+
+---
+
+- 交易之前明确这次交易的真正原因
+- 你永远不会对成交量满意
+- 承担你要承担的风险，对冲其他风险
+- 如果你不能在 5 分钟内解释你的优势，那么你就是没有一个好的优势
+    - 优势就是你知道或者能做到而别人不知道或者做不到的事情
+- 模型是用来表达优势的
+- 如果你觉得成本对你的优势而言可以忽略，那么你至少算错了其中一个东西
+- 一个事情从未发生不代表它不会发生
+- 双赢才重要
+- 如果你不能掌握技术和数据，你就会输给掌握它们的人
+- 如果你没有变的更好，你就变的更差了
 
 The author not only explain those laws in trading context, but also in a common
 sense life use cases.
