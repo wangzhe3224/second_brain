@@ -1,4 +1,5 @@
 {
   "theme": "moonstone",
-  "interfaceFontFamily": "Source Code Pro"
+  "interfaceFontFamily": "Source Code Pro",
+  "accentColor": ""
 }

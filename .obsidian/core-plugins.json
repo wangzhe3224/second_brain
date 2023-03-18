@@ -4,11 +4,14 @@
   "switcher",
   "graph",
   "backlink",
+  "canvas",
   "page-preview",
+  "daily-notes",
   "note-composer",
   "command-palette",
   "editor-status",
   "markdown-importer",
   "word-count",
+  "slides",
   "file-recovery"
 ]

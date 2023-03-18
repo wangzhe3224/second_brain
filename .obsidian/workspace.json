@@ -1,0 +1,135 @@
+{
+  "main": {
+    "id": "36dbfe976d653e40",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8ad057ac5c2ba14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6955e80d4d925ea",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7f9f884bad8702fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d6eedeae898e546",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f6591166c84574f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "70fd3e74a1617050",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 244.0036334991455
+  },
+  "right": {
+    "id": "cb9f58ddf5f9ec2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "18b08cba4af386c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c92b07c0816ff982",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "daily-notes:Open today's daily note": false
+    }
+  },
+  "active": "5f6591166c84574f",
+  "lastOpenFiles": [
+    "Book/building_event_driven_microservices.md",
+    "Untitled.canvas",
+    "Molecules/principles.md",
+    "Computation.md",
+    "Sources/Self-Adjusting Computation.md",
+    "Sources/Bitcoin Currencies and Fragility.md",
+    "Sources/Metcalfe’s Law as a Model for Bitcoin’s Value.md",
+    "Sources/Bitcoin - Beyond Base Layer.md",
+    "Sources/aws-serverless-training.md",
+    "Sources/Bitcoin Blockchain in details.md",
+    "Sources/Bitcoin Academic Pedigree.md.md",
+    "Sources/Graph and Graph Database.md",
+    "Sources/Algebraic Graph Algorithms.md",
+    "Sparks/index.md",
+    "_notes/The_Art_of_Statarb.md",
+    "_notes/Linear Algebra.md",
+    "_notes/_security_priciple.md.md",
+    "Atoms/侧链.md",
+    "Atoms/Bitcoin.md",
+    "Molecules/Great ideas in computer science.md",
+    "Molecules/Great ideas in systematic trading.md",
+    "Atoms/Cryptography.md"
+  ]
+}
