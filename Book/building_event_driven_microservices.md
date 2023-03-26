@@ -11,6 +11,7 @@ Definition of Event-Driven Microservice:
 
 These services consume events from input event streams; apply their specific business logic; and may emit their own output events, provide data for request-response access, communicate with a third-party API, or perform other required actions.
 
+
 - [Why?](#why)
   - [Communication Structure](#communication-structure)
   - [Asynchronous Event-Driven Microservices](#asynchronous-event-driven-microservices)
